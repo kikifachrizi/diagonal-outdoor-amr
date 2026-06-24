@@ -18,7 +18,7 @@
 ## Methodology
 1. VO / VIO
 2. 3D-SLAM
-3. Navigating using GPS localization
+3. Navigating using GPS localization ✅
 4. Fusion sensor
    - IMU
    - LiDAR
